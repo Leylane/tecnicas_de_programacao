@@ -1,5 +1,8 @@
-
 # Técnicas de Programação - Engenharia de Software
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Este repositório foi criado para armazenar as atividades desenvolvidas na disciplina **Técnicas de Programação**, do curso de **Engenharia de Software**.
 
@@ -11,9 +14,9 @@ Este repositório foi criado para armazenar as atividades desenvolvidas na disci
 
 ## 📂 Estrutura do Repositório
 
-- Cada atividade estará em uma pasta ou arquivo específico, devidamente identificado.  
-- Poderão existir exemplos adicionais, testes e anotações complementares.
+A estrutura proposta é a seguinte:
 
+```
 📦 tecnicas-programacao
  ┣ 📂 atividades
  ┃ ┣ 📂 atividade01
@@ -36,7 +39,7 @@ Este repositório foi criado para armazenar as atividades desenvolvidas na disci
  ┃ ┗ 📜 referencias.md         # links e materiais de apoio
  ┣ 📜 README.md                # informações gerais do repositório
  ┗ 📜 .gitignore               # arquivos a serem ignorados no Git
-
+```
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -45,9 +48,13 @@ Este repositório foi criado para armazenar as atividades desenvolvidas na disci
 
 ## 👩‍💻 Autor(a)
 
-Este repositório pertence a um(a) estudante do curso de Engenharia de Software, e tem uso exclusivo para fins acadêmicos.
+Este repositório pertence a Leylane Souza Albuquerque, estudante do curso de Engenharia de Software, e tem uso exclusivo para fins acadêmicos.
 
 ---
 
 ✦ **Disciplina:** Técnicas de Programação  
-✦ **Curso:** Engenharia de Software  
+✦ **Curso:** Engenharia de Software
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
